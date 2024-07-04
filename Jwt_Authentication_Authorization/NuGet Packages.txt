@@ -1,0 +1,13 @@
+﻿Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.EntityFrameworkCore
+Microsoft.AspNetCore.Authentication.JwtBearer
+
+
+
+
+
+
+//Notes
+Add-migration "first migration"
+Update-Database
